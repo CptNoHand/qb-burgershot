@@ -8,7 +8,7 @@ Config.SQL = 'oxmysql' -- oxmysql or ghmattisql
 
 --if u are not using qb-target uncomment this.
 
-Config.Locations = {
+--[[Config.Locations = {
     ["duty"] = {
         [1] = vector3(-1201.33, -893.55, 14.0),
     },  
@@ -50,7 +50,7 @@ Config.Locations = {
     ["garage"] = {
         [1] = vector3(-1178.17, -891.58, 13.76),
     }, 
-}
+}]]--
 
 
 Config.Items = {
